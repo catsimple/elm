@@ -1,4 +1,8 @@
 /*
+2023/9/30 -QQ昵称
+common.js
+直接替换目录下的common.js即可
+无加密，拒绝盗ck、助力
 
 平行绳饿了么备份库：ql repo https://github.com/hicongcn/elm.git "^ele" "" "USER|common|ql|sendNotify1"
 
@@ -10,7 +14,7 @@ const {
 } = require("./sendNotify1.js");
 const _0xhicong = require('md5');
 const _0x355d3c = require("child_process")["exec"];
-const _0x483607 = process["env"]["HOST"] || "http://122.51.212.90:53334";
+const _0x483607 = process["env"]["HOST"] || "http://api.94wan.fun";
 const _0xaaf3e8 = "网络异常，跳过";
 function _0x533bff(_0x4d15c4 = 0, _0x14a025 = 100) {
   return Math["min"](Math["floor"](_0x4d15c4 + Math["random"]() * (_0x14a025 - _0x4d15c4)), _0x14a025);
@@ -267,7 +271,7 @@ const _0x53fee8 = async (_0x3bc174, _0x2719db, _0x5af601 = 5) => {
 const _0x2c412b = async (_0x2b0217, _0x476507, _0x30fa7a, _0x3a8264 = 5) => {
 };
 const _0x171be3 = async (_0x3fe456, _0x5e4065, _0x5b7be9 = 5) => {
-  console["log"]("By 幼稚园小妹妹\n");
+  console["log"]("QQ昵称解密\n");
 };
 async function _0x5bcbae(_0x23aeb9) {
   return new Promise(_0x3b6a77 => {
